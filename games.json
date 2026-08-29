@@ -1,0 +1,39 @@
+{
+  "last_updated": "2026-08-29",
+  "games": [
+    {
+      "id": 1001,
+      "title": "Prince of Persia: Revelations",
+      "description": "Того, по чьему следу идет Дахака — демон",
+      "year": 2011,
+      "genre": "Adventure",
+      "platform": "PSP",
+      "category": "psp",
+      "developer": "Pipeworks Soft",
+      "size": "1,24 ГБ",
+      "size_bytes": 1331691520,
+      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID",
+      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/astra-games/main/icons/1001.png",
+      "file_name": "Prince_of_Persia_Revelations.cso",
+      "folder": "Prince_of_Persia_Revelations",
+      "region": "Europe"
+    },
+    {
+      "id": 1002,
+      "title": "God of War: Chains of Olympus",
+      "description": "Эпическое приключение Кратоса",
+      "year": 2008,
+      "genre": "Action",
+      "platform": "PSP",
+      "category": "psp",
+      "developer": "Ready at Dawn",
+      "size": "1,45 ГБ",
+      "size_bytes": 1557135360,
+      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID_2",
+      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/astra-games/main/icons/1002.png",
+      "file_name": "God_of_War_Chains_of_Olympus.cso",
+      "folder": "God_of_War_Chains_of_Olympus",
+      "region": "Europe"
+    }
+  ]
+}
