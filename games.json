@@ -17,6 +17,23 @@
       "file_name": "God of War Ghost of Sparta.cso",
       "folder": "God of War Ghost of Sparta",
       "region": "Europe"
+    },
+    {
+      "id": 1002,
+      "title": "Prince of Persia The Forgotten Sands",
+      "description": "Сражайтесь с противниками, избегайте смертоносных ловушек и распутывайте сложные головоломки, чтобы исполнить свое предназначение",
+      "year": 2010,
+      "genre": "Adventure",
+      "platform": "PSP",
+      "category": "psp",
+      "developer": "Ubisoft Montreal",
+      "size": "551 МБ",
+      "size_bytes": 551000000,
+      "download_url": "https://drive.google.com/file/d/1S9gzFaRDd4wEPnQ4gK_PH4hU2vLmLv84/view?usp=sharing",
+      "icon_url": "http://cdn.jsdelivr.net/gh/KentikXlove/Astra-Launcher@main/icons/1002.png",
+      "file_name": "Prince of Persia The Forgotten Sands.cso",
+      "folder": "Prince of Persia The Forgotten Sands",
+      "region": "Europe"
     }
   ]
 }
